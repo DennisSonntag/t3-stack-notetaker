@@ -1,0 +1,3 @@
+Environment variables loaded from .env
+Prisma schema loaded from prisma/schema.prisma
+Datasource "db": MySQL database "notes" at "us-east.connect.psdb.cloud"
